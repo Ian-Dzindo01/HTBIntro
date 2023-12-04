@@ -1,0 +1,1 @@
+knockpy proves better for subdomain enumeration than gobuster or amass
